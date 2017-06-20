@@ -1,1 +1,1 @@
-# battleship-ui-search
+# battleship-interface-search
